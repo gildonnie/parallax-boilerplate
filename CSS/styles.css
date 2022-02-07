@@ -76,6 +76,7 @@ body{
   max-width: 50%;
   max-height: 450px;
   top: 200px;
+  
   }
 
 
@@ -111,7 +112,17 @@ body{
   border-radius: 25px;
   background: rgba(219, 219, 219, 0.25);;
 }
+
+.btn-sq-sm {
+  width: 66px;
+  height: 56px;
+  font-size: 12px;
+  background: rgba(219, 219, 219, 0.25);;
+}
+
  
+
+/* google fonts */
 h1 {
   font-family: 'Shadows Into Light', cursive;
 }
@@ -122,6 +133,8 @@ ul {
 
 p{
   font-family: 'Cinzel', serif;
+  max-height: 200px;
+  
 }
 
 .line {
