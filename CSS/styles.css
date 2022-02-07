@@ -1,0 +1,129 @@
+body{
+    background-color: #F54746;
+}
+
+.parallax {
+    background-image: url("/IMG/japanbac.jpg");
+
+  /* Set a specific height */
+  min-height: 960px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#second {
+  background-image: url("/IMG/citry3.jpg");
+
+  /* Set a specific height */
+  min-height: 960px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#third{
+  background-image: url("/IMG/city.jpg");
+
+  /* Set a specific height */
+  min-height: 960px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#forth{
+  background-image: url("/IMG/city2.jpg");
+
+  /* Set a specific height */
+  min-height: 960px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#fifth{
+  background-image: url("/IMG/wallart.jpg");
+
+  /* Set a specific height */
+  min-height: 960px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #box {
+  background: rgba(28, 23, 21, 0.7);;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  max-width: 50%;
+  max-height: 450px;
+  top: 200px;
+  }
+
+
+
+#Learn {
+  background: rgba(28, 23, 21, 0.7);;
+  opacity: .75;
+  border: 1px solid gray;
+ }
+
+ #footer{
+  min-height: 500px;
+  color: rgba(219, 219, 219, 0.50);;
+ }
+
+ .btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 35px;
+  background: rgba(219, 219, 219, 0.25);;
+}
+
+
+.btn-circle.btn-lg {
+  width: 50px;
+  height: 50px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 25px;
+  background: rgba(219, 219, 219, 0.25);;
+}
+ 
+h1 {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+ul {
+  font-family: 'Syne Tactile', cursive;
+}
+
+p{
+  font-family: 'Cinzel', serif;
+}
+
+.line {
+  color: #F54746;
+}
